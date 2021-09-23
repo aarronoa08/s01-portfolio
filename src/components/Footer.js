@@ -6,7 +6,7 @@ import Button from 'react-bootstrap/Button'
 export default function Footer() {
     return (
         <Jumbotron>
-            <h1>This is a footer</h1>
+            <h1>New footer</h1>
             
         </Jumbotron>
     )
